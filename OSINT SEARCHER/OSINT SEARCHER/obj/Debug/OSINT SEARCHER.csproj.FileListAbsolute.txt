@@ -1,0 +1,10 @@
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\bin\Debug\OSINT SEARCHER.exe.config
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\bin\Debug\OSINT SEARCHER.exe
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\bin\Debug\OSINT SEARCHER.pdb
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT SEARCHER.csprojAssemblyReference.cache
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT_SEARCHER.Form1.resources
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT_SEARCHER.Properties.Resources.resources
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT SEARCHER.csproj.GenerateResource.cache
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT SEARCHER.csproj.CoreCompileInputs.cache
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT SEARCHER.exe
+F:\virtual studio\OSINT SEARCHER\OSINT SEARCHER\obj\Debug\OSINT SEARCHER.pdb

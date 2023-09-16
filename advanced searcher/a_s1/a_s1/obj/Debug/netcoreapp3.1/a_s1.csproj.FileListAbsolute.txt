@@ -1,0 +1,16 @@
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.exe
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.deps.json
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.runtimeconfig.json
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.runtimeconfig.dev.json
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.dll
+F:\virtual studio\advanced searcher\a_s1\a_s1\bin\Debug\netcoreapp3.1\a_s1.pdb
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.csprojAssemblyReference.cache
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.Form1.resources
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.csproj.GenerateResource.cache
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.AssemblyInfoInputs.cache
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.AssemblyInfo.cs
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.csproj.CoreCompileInputs.cache
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.dll
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.pdb
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.genruntimeconfig.cache
+F:\virtual studio\advanced searcher\a_s1\a_s1\obj\Debug\netcoreapp3.1\a_s1.Form2.resources
